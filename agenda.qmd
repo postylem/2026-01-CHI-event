@@ -6,7 +6,7 @@ sidebar: false
 [(fullscreen ↗)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRU0NZTbo1q44yaXrLb2GUK78F2dN1A_pi0U5gSQGiZwxu-4BSj92cC8gOuJh7OH9ow0xqny9yUrXb/pubhtml?gid=16870347&single=true)
 
 <iframe 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQRU0NZTbo1q44yaXrLb2GUK78F2dN1A_pi0U5gSQGiZwxu-4BSj92cC8gOuJh7OH9ow0xqny9yUrXb/pubhtml?gid=16870347&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQRU0NZTbo1q44yaXrLb2GUK78F2dN1A_pi0U5gSQGiZwxu-4BSj92cC8gOuJh7OH9ow0xqny9yUrXb/pubhtml?gid=16870347&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"
     class="frame"
 >
 </iframe>
