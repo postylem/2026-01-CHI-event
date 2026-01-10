@@ -1,0 +1,16 @@
+color:
+  palette:
+    dark-grey: hsl(0deg 0% 23.14%)
+  background: white
+  foreground: dark-grey
+  primary: dark-grey
+
+# logo: 
+#   medium: logo.webp
+
+typography:
+  fonts:
+    - family: Poppins
+      source: google
+  base: Poppins
+  headings: Poppins

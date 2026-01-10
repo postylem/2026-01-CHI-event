@@ -1,5 +1,7 @@
 ---
-title: Index
+title: ""
 ---
+
+[Agenda](agenda.qmd)
 
 [Reading list](readinglist.qmd)

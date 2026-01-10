@@ -6,9 +6,10 @@ website:
   title: "2026-01 CHI event"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      # - about.qmd
+      - href: agenda.qmd
+        text: Agenda
+      - href: readinglist.qmd
+        text: Reading List
 
 format:
   html:
