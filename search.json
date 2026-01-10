@@ -4,14 +4,14 @@
     "href": "readinglist.html",
     "title": "Reading List",
     "section": "",
-    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
+    "text": "This is a list of core papers that are important antecedents to the work discussed at the site event."
   },
   {
     "objectID": "readinglist.html#genlm",
     "href": "readinglist.html#genlm",
     "title": "Reading List",
-    "section": "",
-    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
+    "section": "GenLM",
+    "text": "GenLM\n\nLew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
   },
   {
     "objectID": "readinglist.html#chimind",
