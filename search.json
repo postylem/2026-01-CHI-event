@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "readinglist.html",
+    "href": "readinglist.html",
+    "title": "Reading List",
     "section": "",
-    "text": "About this site"
+    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
+  },
+  {
+    "objectID": "readinglist.html#genlm",
+    "href": "readinglist.html#genlm",
+    "title": "Reading List",
+    "section": "",
+    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
+  },
+  {
+    "objectID": "readinglist.html#chimind",
+    "href": "readinglist.html#chimind",
+    "title": "Reading List",
+    "section": "ChiMind",
+    "text": "ChiMind\n\nWong et al. (2023, Introduces RMC (rational meaning construction) framework)\nWong et al. (2025, Introduces MSA (Model Synthesis Architectures))\nAhmed et al. (2025, Introduces TheoryCoder, a theory-based reinforcement learning (TBRL) system.)\nAhmed et al. (n.d., Introduces the TheoryCoder-2 TBRL system.)\nTsividis et al. (2021, EMPA TBRL system.)\nYing, Truong, et al. (2025, Introduces LIRAS – an MSA-like architeecture for modeling social reasoning.)\nYing, Collins, et al. (2025, World model induction for novel games.)\nCollins et al. (2025, “Intuitive Gamer” model of novice gameplay.)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Reading List",
+    "title": "Index",
     "section": "",
-    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
-  },
-  {
-    "objectID": "index.html#genlm",
-    "href": "index.html#genlm",
-    "title": "Reading List",
-    "section": "",
-    "text": "Lew et al. (2023, The LLaMPPL paper)\nLoula et al. (2025, Paper introducing what is now genlm-control)\nLipkin et al. (2025, AWRS)\nVieira et al. (2025)\nLew et al. (2022, RAVI)"
-  },
-  {
-    "objectID": "index.html#chimind",
-    "href": "index.html#chimind",
-    "title": "Reading List",
-    "section": "ChiMind",
-    "text": "ChiMind\n\nWong et al. (2023, Introduces RMC (rational meaning construction) framework)\nWong et al. (2025, Introduces MSA (Model Synthesis Architectures))\nAhmed et al. (2025, Introduces TheoryCoder, a theory-based reinforcement learning (TBRL) system.)\nAhmed et al. (n.d., Introduces the TheoryCoder-2 TBRL system.)\nTsividis et al. (2021, EMPA TBRL system.)\nYing, Truong, et al. (2025, Introduces LIRAS – an MSA-like architeecture for modeling social reasoning.)\nYing, Collins, et al. (2025, World model induction for novel games.)\nCollins et al. (2025, “Intuitive Gamer” model of novice gameplay.)"
+    "text": "Reading list"
   }
 ]
