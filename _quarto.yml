@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "2026-01 CHI event"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      # - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
