@@ -4,6 +4,8 @@ bibliography: readinglist.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 ---
 
+This is a list of core papers that are important antecedents to the work discussed at the site event.
+
 ## GenLM
 
 - @lew2023llamppl [The [**`LLaMPPL`**](https://genlm.org/llamppl/) paper]
