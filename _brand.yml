@@ -12,5 +12,7 @@ typography:
   fonts:
     - family: Poppins
       source: google
+  link:
+    color: darkblue
   base: Poppins
-  headings: Poppins
+  headings: Helvetica

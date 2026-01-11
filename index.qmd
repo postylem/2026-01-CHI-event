@@ -2,6 +2,6 @@
 title: ""
 ---
 
-[Agenda](agenda.qmd)
+[Agenda](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRU0NZTbo1q44yaXrLb2GUK78F2dN1A_pi0U5gSQGiZwxu-4BSj92cC8gOuJh7OH9ow0xqny9yUrXb/pubhtml?gid=16870347&single=true&widget=false&chrome=false)
 
 [Reading list](readinglist.qmd)

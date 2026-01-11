@@ -8,8 +8,8 @@ This is a list of core papers that are important antecedents to the work discuss
 
 ## GenLM
 
-- @lew2023llamppl [The [**`LLaMPPL`**](https://genlm.org/llamppl/) paper]
-- @loula2025icml [Paper introducing what is now [**`genlm-control`**](https://genlm.org/genlm-control/)]
+- @lew2023llamppl [The [**`LLaMPPL`**↗︎](https://genlm.org/llamppl/) paper]
+- @loula2025icml [Paper introducing what is now [**`genlm-control`**↗︎](https://genlm.org/genlm-control/)]
 - @lipkin2025colm [AWRS]
 - @vieira2025icml
 - @lew2022ravi [RAVI]
@@ -20,7 +20,7 @@ This is a list of core papers that are important antecedents to the work discuss
 - @wong2025msa [Introduces **MSA** (Model Synthesis Architectures)]
 - @ahmed.z:2025  [Introduces `TheoryCoder`, a theory-based reinforcement learning (TBRL) system.]
 - @ahmed.z:2026  [Introduces the `TheoryCoder-2` TBRL system.]
-- @tsividis.p:2021empa [[**EMPA**](https://pedrotsividis.com/tbrl.html) TBRL system.]
+- @tsividis.p:2021empa [[**EMPA**↗︎](https://pedrotsividis.com/tbrl.html) TBRL system.]
 - @ying.l:2025LIRAS [Introduces LIRAS -- an MSA-like architeecture for modeling social reasoning.]
 - @ying.l:2025LAW [World model induction for novel games.]
 - @collins.k:2025arxiv ["Intuitive Gamer" model of novice gameplay.]
