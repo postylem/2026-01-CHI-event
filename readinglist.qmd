@@ -24,3 +24,4 @@ This is a list of core papers that are important antecedents to the work discuss
 - @ying.l:2025LIRAS [Introduces LIRAS -- an MSA-like architeecture for modeling social reasoning.]
 - @ying.l:2025LAW [World model induction for novel games.]
 - @collins.k:2025arxiv ["Intuitive Gamer" model of novice gameplay.]
+- @goodman.n:2014PLoT [the PLoT paper]
